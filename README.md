@@ -10,3 +10,15 @@ I am also a student attending Wichita State University to obtain my Master's in 
 Programming language I prefer: C++
 
 Programming languages I am at least somewhat familiar with or better: C++, C#, Java, Assembly, VHDL.
+
+My major tasks while working at Textron Aviation have included:
+
+Electrical wiring and system integration design.
+
+Testing systems integration.
+
+Writing requirements for avionics software.
+
+Testing avionics software.
+
+Writing safety analysis of avionics systems.
